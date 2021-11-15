@@ -1,0 +1,4 @@
+- There is a dockerfile in this.
+- If you have docker installed
+- Do this: First type `docker build -t react-app .`
+- Then: Type `docker run --rm -p 3000:80 --name react react-app`
