@@ -1,4 +1,8 @@
 - There is a dockerfile in this.
 - If you have docker installed
-- Do this: First type `docker build -t react-app .`
-- Then: Type `docker run --rm -p 3000:80 --name react react-app`
+- Then go to your terminal and type this.
+- `docker build -t react-app .`
+- Then this `docker run --rm -p 3000:80 --name react react-app`
+- If you are on linux then you would have to type your password.
+- Now go to your browser and type `localhost:3000`
+- It would be running then.
